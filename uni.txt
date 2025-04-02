@@ -5,6 +5,7 @@
 <link rel="stylesheet" href="bluesheet.css">
 </head>
 <body>
+<p>Im 21 years old</p>
 <div><img src="Screenshot(1588).jpg" alt="Hello Git" style="width:100%;max-width:640px"></div>
  <h1 style="font-family:calibri">Michael T. Mharadze</h1><hr>
 <p>Im a NUST student.<br>
@@ -12,6 +13,13 @@ Im a part 2.2.</p>
 <p>Im a male.</p>
 <div><img src="Scenshort(1589).jpg" alt="Hell images"
 style="width:100%;max-width:640px"></div>
+<h2>Technical Skills</h2>
+<p>Im good at
+<l>
+<ol>teamwork</ol>
+<ol>communication</ol>
+</l>
+</p>
 
 </body>
 </html>
