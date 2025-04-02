@@ -9,7 +9,6 @@
 <p>Im a NUST student.<br>
 Im a part 2.2.</p>
 <p>Im a male.</p>
-<div><img src="Screenshort.jpg" alt="Hello World from Space"
-style="width:100%;max-width:960px"></div>
+
 </body>
 </html>
